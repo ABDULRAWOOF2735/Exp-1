@@ -1,7 +1,7 @@
 # Exp-1 ATM & BANKING SYSTEM
 
 # AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
+To study the problem statement and Draw all the UML diagrams of ATM System.
 # SRS (Procedure):
 i) Usecase Diagram
 
@@ -14,6 +14,8 @@ iv)Communication Diagram
 v)Package Diagram
 
 vi)Sequence Diagram
+Developed by: ABDUL RAWOOF
+REG NO : 212224230003
 # DIAGRAMS:
 ![Usecase1](https://github.com/user-attachments/assets/721e1d32-e532-4c2c-b726-c01478ad8735)
 
